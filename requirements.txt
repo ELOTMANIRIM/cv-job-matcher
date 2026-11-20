@@ -1,0 +1,13 @@
+flask
+requests
+beautifulsoup4
+python-docx
+pypdf2
+sentence-transformers
+scikit-learn
+numpy
+pandas
+dotenv
+nltk
+lxml
+dateparser
